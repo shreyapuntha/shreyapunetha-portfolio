@@ -97,31 +97,6 @@ export const Bio = {
         },
       ],
     },
-    // {
-    //   title: "Android",
-    //   skills: [
-    //     {
-    //       name: "Java",
-    //       image:
-    //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    //     },
-    //     {
-    //       name: "Kotlin",
-    //       image:
-    //         "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-    //     },
-    //     {
-    //       name: "XML",
-    //       image:
-    //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
-    //     },
-    //     {
-    //       name: "Android Studio",
-    //       image:
-    //         "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-    //     },
-    //   ],
-    // },
     {
       title: "Others",
       skills: [
@@ -202,7 +177,6 @@ export const Bio = {
         "OOPs",
         "Design Pattenrs",
       ],
-    //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
     },
     {
       id: 3,
@@ -443,11 +417,3 @@ export const Bio = {
       webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
     },
   ];
-  
-//   export const TimeLineData = [
-//     { year: 2017, text: "Started my journey" },
-//     { year: 2018, text: "Worked as a freelance developer" },
-//     { year: 2019, text: "Founded JavaScript Mastery" },
-//     { year: 2020, text: "Shared my projects with the world" },
-//     { year: 2021, text: "Started my own platform" },
-//   ];
